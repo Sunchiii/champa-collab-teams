@@ -1,16 +1,14 @@
 
 <script setup lang="ts">
 
- import safety from './components/safety.vue';
+ import safety from './components/safety.vue'
 
 
 </script >
 <template>
 
-
- <safety/>
- <task/>
+ <safety />
 </template>
-<style lang="css">
+<style>
 
 </style>

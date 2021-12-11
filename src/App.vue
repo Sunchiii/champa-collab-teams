@@ -1,11 +1,14 @@
 
 <script setup lang="ts">
- 
-</script>
 
+ import safety from './components/safety.vue'
+
+
+</script >
 <template>
- 
-</template>
 
+ <safety />
+</template>
 <style>
+
 </style>

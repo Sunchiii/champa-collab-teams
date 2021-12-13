@@ -1,10 +1,12 @@
 
 <script setup lang="ts">
- import Credit from './components/credit.vue'
+
 </script>
 
 <template>
- <Credit />
+</script>
+
+<template>
 </template>
 
 <style>

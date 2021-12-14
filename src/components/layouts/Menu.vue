@@ -23,7 +23,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import LOGO from "../../assets/image/logo.png";
+import LOGO from "../../assets/logo.png";
 export default defineComponent({
   setup() {
     return {

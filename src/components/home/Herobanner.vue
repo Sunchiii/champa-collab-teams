@@ -18,7 +18,7 @@
 
 <script lang="ts">
 import {defineComponent} from 'vue'
-import tym from '../../assets/image/tym.png'
+import tym from '../../assets/images/tym.png'
 
 export default defineComponent({
     setup(){
@@ -31,6 +31,6 @@ export default defineComponent({
 
 <style scoped>
 .bg-img{
-    background-image: url('../../assets/image/background.jpg');
+    background-image: url('../../assets/images/background.jpg');
 }
 </style>

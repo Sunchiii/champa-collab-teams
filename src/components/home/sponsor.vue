@@ -11,11 +11,11 @@
         
         <div class="h-1/2">
                 <div id="sponsor-logo" class="flex justify-center items-center pb-10">
-                    <a href=""><div class="h-12 w-12 p-2"><img src="../assets/image/sponsor-img/facebook.png" alt="facebook-logo"></div></a>
-                    <a href=""><div class="h-12 w-12 p-2"><img src="../assets/image/sponsor-img/google.png" alt="google-logo"></div></a>
-                    <a href=""><div class="h-12 w-12 p-2"><img src="../assets/image/sponsor-img/instagram.png" alt="instagram-logo"></div></a>
-                    <a href=""><div class="h-12 w-12 p-2"><img src="../assets/image/sponsor-img/twitter.png" alt="twitter-logo"></div></a>
-                    <a href=""><div class="h-12 w-12 p-2 flex items-center"><img src="../assets/image/sponsor-img/youtube.png" alt="youtube-logo"></div></a>
+                    <a href=""><div class="h-12 w-12 p-2"><img src="../../assets/images/sponsor-img/facebook.png" alt="facebook-logo"></div></a>
+                    <a href=""><div class="h-12 w-12 p-2"><img src="../../assets/images/sponsor-img/google.png" alt="google-logo"></div></a>
+                    <a href=""><div class="h-12 w-12 p-2"><img src="../../assets/images/sponsor-img/instagram.png" alt="instagram-logo"></div></a>
+                    <a href=""><div class="h-12 w-12 p-2"><img src="../../assets/images/sponsor-img/twitter.png" alt="twitter-logo"></div></a>
+                    <a href=""><div class="h-12 w-12 p-2 flex items-center"><img src="../../assets/images/sponsor-img/youtube.png" alt="youtube-logo"></div></a>
                 </div>
             <div class="flex justify-center">
                 <button style="background-color: #e94a82" class="px-6 py-2 font-medium text-sm text-red-100 rounded">Get Started</button>

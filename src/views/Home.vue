@@ -8,6 +8,7 @@
        <Sponsor />
        <Safety />
 
+       <Footer />
    </div>
 </template>
 
@@ -20,6 +21,7 @@ import FiService from '../components/home/financial_service.vue'
 import Sponsor from '../components/home/sponsor.vue'
 import Safety from '../components/home/safety.vue'
 
+import Footer from '../components/layouts/footer.vue'
 </script>
 
 <style>

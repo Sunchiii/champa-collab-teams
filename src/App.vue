@@ -1,12 +1,7 @@
-
 <script setup lang="ts">
- import faqs from './components/faqs.vue';
+import Home from './views/Home.vue'
 </script>
-
 <template>
-<faqs />
+
+    <Home />
 </template>
-
-<style>
-
-</style>

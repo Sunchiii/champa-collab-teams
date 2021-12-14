@@ -25,13 +25,10 @@
     </div>
 </template>
 
-<script>
-export default {
-
-}
+<script lang="ts">
 </script>
 
-<style>
+<style scoped>
  .container .box_question .box {
      padding-right: 10%;
      text-align: left;

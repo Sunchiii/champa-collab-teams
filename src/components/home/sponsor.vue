@@ -24,7 +24,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 .text-center{
     text-align: center;
 }

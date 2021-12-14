@@ -61,7 +61,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .footer {
   height: auto;
   width: 100%;

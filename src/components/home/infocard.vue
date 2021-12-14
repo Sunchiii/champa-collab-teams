@@ -107,7 +107,7 @@ p1{font-family: "Agency FB"; font-size:40px;}
 p2{font-size:10px}
 </style>
 
-<style>
+<style scoped>
 *{
     margin:0px;
     padding:0px;

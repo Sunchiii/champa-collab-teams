@@ -7,7 +7,7 @@
        <FiService />
        <Sponsor />
        <Safety />
-
+       <Faqs />
        <Footer />
    </div>
 </template>
@@ -20,7 +20,7 @@ import CraDitCard from '../components/home/credit.vue'
 import FiService from '../components/home/financial_service.vue'
 import Sponsor from '../components/home/sponsor.vue'
 import Safety from '../components/home/safety.vue'
-
+import Faqs from '../components/home/faqs.vue'
 import Footer from '../components/layouts/footer.vue'
 </script>
 

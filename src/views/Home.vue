@@ -2,13 +2,13 @@
    <div class="w-full relative">
        <Menu />
        <Banner />
-       <!-- <InfoCard />
+       <InfoCard />
        <CraDitCard />
        <FiService />
        <Sponsor />
        <Safety />
        <Faqs />
-       <Footer /> -->
+       <Footer />
    </div>
 </template>
 

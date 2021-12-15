@@ -2,13 +2,13 @@
    <div class="w-full relative">
        <Menu />
        <Banner />
-       <InfoCard />
+       <!-- <InfoCard />
        <CraDitCard />
        <FiService />
        <Sponsor />
        <Safety />
        <Faqs />
-       <Footer />
+       <Footer /> -->
    </div>
 </template>
 
@@ -22,6 +22,7 @@ import Sponsor from '../components/home/sponsor.vue'
 import Safety from '../components/home/safety.vue'
 import Faqs from '../components/home/faqs.vue'
 import Footer from '../components/layouts/footer.vue'
+
 </script>
 
 <style>
